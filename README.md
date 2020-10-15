@@ -395,3 +395,7 @@ Sensors or probes with authentic or cloned DS18B20 were purchased from the follw
 12. [QT18B20](http://www.leoniv.diod.club/articles/ds18x20/downloads/qt18b20.pdf) "QT18B20 Programmable Resolution 1-Wire Digital Thermometer", Datasheet Rev 061713, 7Q Technology.
 13. [AIR6273](https://www.sae.org/standards/content/air6273/) "Terms, Definitions, and Acronyms Counterfeit Materiel or Electrical, Electronic, and Electromechanical Parts", SAE Aerospace Information Report, July 2019.
 14. [UMW DS18B20](https://datasheet.lcsc.com/szlcsc/1911131832_Youtai-Semiconductor-Co-Ltd-DS18B20_C376006.pdf) UMW DS18B20 datasheet.
+
+
+------
+Перевод: https://www.rlocman.ru/review/article.html?di=621315
